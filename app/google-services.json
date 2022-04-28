@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "409629149116",
+    "project_id": "neverrelaxapp",
+    "storage_bucket": "neverrelaxapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409629149116:android:96bc47e15e4ab613980db9",
+        "android_client_info": {
+          "package_name": "com.morka.neverrelaxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409629149116-a8lj64td13ntajuviit7lii4u35i1ume.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.morka.neverrelaxapp",
+            "certificate_hash": "0d035a0de2370e7eec14a18f89bcca4924582511"
+          }
+        },
+        {
+          "client_id": "409629149116-tbrr9tjfgteul5i95qa50dka88vjjg4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlSAHOIJJ0UaeV9uH9H7DwoxIohBoQTKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409629149116-tbrr9tjfgteul5i95qa50dka88vjjg4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
